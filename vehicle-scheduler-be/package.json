@@ -1,0 +1,16 @@
+{
+  "name": "vehicle-scheduler-be",
+  "version": "1.0.0",
+  "description": "Vehicle Scheduler Backend - 0/1 Knapsack per depot",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.18.1",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
